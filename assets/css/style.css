@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to top, #14a199, #F9FD99);
+    height: 100%;
+    background-attachment: fixed;
+    font-weight: 300;
+}
